@@ -6,3 +6,5 @@
 Конспект работы  с редос(bash) - https://docs.google.com/document/d/1Wl3s61TOo2xGaqAAiU_qmiFVvNRlpwwUB4YESfjVNXY/edit?usp=sharing
 
 gnuplot - https://docs.google.com/document/d/1p6Axzfl7c174CEh6IWQ_-fmQtfKZc8xAmCI3VYn2-5I/edit?usp=sharing
+
+Права доступа и взлома системы - https://docs.google.com/document/d/1ej2K3MMnYyp7wnPLwzti3Ian9VhWES4Z5fo7Xst0FPk/edit?usp=sharing
