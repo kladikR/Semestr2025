@@ -9,6 +9,8 @@ gnuplot - https://docs.google.com/document/d/1p6Axzfl7c174CEh6IWQ_-fmQtfKZc8xAmC
 
 Права доступа и взлома системы - https://docs.google.com/document/d/1ej2K3MMnYyp7wnPLwzti3Ian9VhWES4Z5fo7Xst0FPk/edit?usp=sharing
 
+Отчет Kali linux по утилите nmap - https://docs.google.com/document/d/1LcKnQ4Da3XtCq0HWbGU5tPNbAhwQzAt2bMMrzNzBDW0/edit?usp=sharing
+
 8 Вариант -----------------------------------
 1. Скрипт: https://drive.google.com/file/d/1Q4bB1juBnQGCJIHtjkTzrNpV2b3rK1Nk/view?usp=sharing
 2. Решение(python): https://drive.google.com/file/d/1QBGNdkQVWbWTD-KEaD1isgiAOPQsLQ8b/view?usp=sharing
