@@ -8,3 +8,7 @@
 gnuplot - https://docs.google.com/document/d/1p6Axzfl7c174CEh6IWQ_-fmQtfKZc8xAmCI3VYn2-5I/edit?usp=sharing
 
 Права доступа и взлома системы - https://docs.google.com/document/d/1ej2K3MMnYyp7wnPLwzti3Ian9VhWES4Z5fo7Xst0FPk/edit?usp=sharing
+
+8 Вариант -----------------------------------
+1. Скрипт: https://drive.google.com/file/d/1Q4bB1juBnQGCJIHtjkTzrNpV2b3rK1Nk/view?usp=sharing
+2. Решение(python): https://drive.google.com/file/d/1QBGNdkQVWbWTD-KEaD1isgiAOPQsLQ8b/view?usp=sharing
